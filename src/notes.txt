@@ -1,0 +1,22 @@
+fetch-js predefined async method
+fetch- function->asynchronous function==>async,await
+
+react component lifecycfa-pull-left
+
+1: mounting-(stage of rendering dom elements in a component) => componentDidMount()
+2: updating-(stage of rendering after a change or updation in component data[state,props,etc]) => componentDidUpdate()
+3: unmounting-(stage of removing dom elements that rendered) => componentWillUnmount()
+
+useEffect()=> this hook is used to implement lifecycle functional component,useEffect is also used to side 
+syntax of useEffect => useEffect(()=>{
+                        effects
+                        return (
+                            clean-up
+                        )
+                        },{inputs}) 
+
+React Routing---->>> to jump from one component to another 
+-router library installation== npm i react-router-dom
+Router===to implement routing in entire app
+Routes===which contains the route to every component(also act as <router-outlet> selector of angular)
+Route===
